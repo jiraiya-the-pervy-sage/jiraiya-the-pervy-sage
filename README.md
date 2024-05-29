@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves diving deep i
 - **Data Streaming:** Apache Kafka
 - **Architectures:** Microservices
 
-## 📈 GitHub 통계
+## 📈 GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiraiya-the-pervy-sage&theme=radical)](https://git.io/streak-stats)
 
