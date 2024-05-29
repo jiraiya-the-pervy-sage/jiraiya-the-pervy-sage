@@ -32,11 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves diving deep i
 
 ## 📈 GitHub 통계
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jiraiya-the-pervy-sage&show_icons=true&theme=radical)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiraiya-the-pervy-sage&theme=radical)](https://git.io/streak-stats)
-
-[![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiraiya-the-pervy-sage&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jiraiya-the-pervy-sage&color=blue)
 
